@@ -1,3 +1,3 @@
 # Insultator
-This mini-project is a program that is going to insult you (In Spanish) PD: I am a begginer and I'll upload here the projects that I do sometimes :)
-PDX2: To execute the program you have to use 'python main.py (and then here you can write help for the first time)
+Este mini-proyecto insultará al usuario con una variedad distinta dependiendo de los gustos del mismo :)
+PDX2: Para ejecutar el progrma tienes que usar 'python main.py (help, Insulto_flojito, Insulto_potentillo , Insulto_fuerte, Insulto_duro, Insultos_multiples, Insulto_supremo)'
