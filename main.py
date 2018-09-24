@@ -1,6 +1,11 @@
 import sys
 import random
 
+__author__ = 'TheRusher28'
+__mantainer__ = 'TheRusher28'
+__email__ = 'therusher28@gmail.com'
+__status__ = 'Beginner'
+
 Insultos_flojitos = ['Mongol@', 'Tontorron/Tontorrona', 'Fe@']
 Insultos_potentillos = ['Cerradit@ de mente', 'Tont@ de mierda', 'Gilipollas']
 Insultos_fuertes = ['Me cago en tu madre', 'Te comes las pollas de 5 en 5 y por el culo te la hinco', 'Eres mas fe@ que las piedras']
